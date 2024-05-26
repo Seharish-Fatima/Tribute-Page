@@ -1,0 +1,61 @@
+html {
+  background-color: #0b0c10;
+}
+h1 {
+  text-align: center;
+  align-items: center;
+  color: #931f1d;
+  font-size: 3rem;
+}
+
+h3 {
+  text-align: center;
+  align-items: center;
+  color: #45a29e;
+  font-size: 2rem;
+}
+
+blockquote,
+figcaption {
+  text-align: center;
+  align-items: center;
+  color: #d1ac00;
+}
+
+blockquote {
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 15px;
+}
+
+p {
+  color: white;
+  text-align: justify;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+time {
+  color: #ff8966;
+}
+
+.bert {
+  color: #ff8966;
+  text-align: right;
+}
+
+a:visited {
+  color: #931f1d;
+}
+
+a:hover {
+  color: chartreuse;
+}
